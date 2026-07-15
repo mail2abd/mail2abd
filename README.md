@@ -17,6 +17,7 @@ Embedded Systems Engineer with over 20 years of experience designing and develop
 - System Architecture
 - Performance Optimization
 - Production Software Engineering
+- Slimboot loader (SBL)
 
 ## Philosophy
 
